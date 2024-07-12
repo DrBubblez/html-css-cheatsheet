@@ -1,3 +1,14 @@
-/*Background: Color Gradient from btm left*/
-/*Font Family: "Roboto Slab"*/
 /*Code Tags need to be monospace*/
+* {
+    font-family: "Roboto Slab", serif;
+}
+
+header {
+    text-align: center;
+    background: linear-gradient(darkcyan, midnightblue);
+    color: white;
+    width: 40%;
+    margin: 0 auto;
+    border-radius: 30px;
+    font-size: 25px;
+}

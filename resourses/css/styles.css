@@ -11,4 +11,35 @@ header {
     margin: 0 auto;
     border-radius: 30px;
     font-size: 25px;
+    opacity: 0.85;
+}
+
+/* Styles for the table */
+article {
+    margin: 50px auto;
+}
+
+table, th, td {
+    border: 2px solid darkcyan;
+}
+
+th {
+    background-color: rgba(0, 139, 139, 0.80);
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    background-color: midnightblue;
+    color: white;
+    width: 30%;
+    margin: 20px auto;
+    border-radius: 30px;
+    opacity: 0.85;
+}
+
+table {
+    margin: auto;
+    width: 50%;
+    text-align: center;
 }

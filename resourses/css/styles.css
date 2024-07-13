@@ -43,3 +43,8 @@ table {
     width: 50%;
     text-align: center;
 }
+
+.tag {
+    font-family: monospace;
+    background-color: rgba(0, 139, 139, 0.50);
+}
